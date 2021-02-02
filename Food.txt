@@ -1,0 +1,2 @@
+1		BigM 		10.40
+2 		Cheeseburger		 9.45
